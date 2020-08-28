@@ -1,16 +1,14 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
-    "pages/logs/logs",
     "pages/welcome/welcome",
     "pages/about/about"
-    
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#E02433",
     "navigationBarTitleText": "亲戚称呼计算",
-    "navigationBarTextStyle":"white"
-  }
-  
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json"
 }
